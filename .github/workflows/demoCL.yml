@@ -21,7 +21,7 @@ jobs:
     - name: Checkout Own Repo to cloud
       uses: actions/checkout@v2
       with: 
-        repository: ChristopherTeyWeixian/12354
+        repository: ChristopherTeyWeixian/12354-main
 
     
     - name: Checkout private repo remotely
