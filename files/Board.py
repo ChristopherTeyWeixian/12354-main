@@ -12,7 +12,7 @@ class Board(object):
         self.House= 8
         self.Shop= 8
         self.Highway= 8
-##
+###
     def New_Board(self):
         try:
             # adds_line is needed as "\b" is counted as a functionality in python
