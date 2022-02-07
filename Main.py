@@ -4,7 +4,7 @@ from files.Menu import *
 from files.Game_Options import *
 
 while (True):
-    
+    ###
     option = main_menu()
     match option:
         case "1":#Start new game
